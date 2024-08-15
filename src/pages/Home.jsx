@@ -2,7 +2,7 @@ import React from 'react'
 
 // import Header from "./components/header"
 import { useEffect, useState } from "react";
-import SearchableInput from "../components/searchableInput";
+import SearchableInput from "../components/SearchableInput";
 import axios from "axios";
 import PropTypes from "prop-types";
 import SearchList from "../components/SearchList";
